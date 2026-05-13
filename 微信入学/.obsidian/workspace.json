@@ -11,14 +11,10 @@
             "id": "15a7ed01c3e41b8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/事关南庄镇公办小学招生！3月18日起报名！.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "事关南庄镇公办小学招生！3月18日起报名！"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -164,13 +160,23 @@
               "icon": "lucide-list",
               "title": "欢迎 的大纲"
             }
+          },
+          {
+            "id": "d0b1c3e8b9260a0e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +192,18 @@
   },
   "active": "15a7ed01c3e41b8c",
   "lastOpenFiles": [
+    "禅城区新市民积分制服务指南.md",
+    "Clippings/2026年禅城区新市民积分入学公告.md",
+    "禅城区新市民积分制服务指南（2026年）.md",
     "Clippings/2026年佛山市华英学校招生报名资格审核结果查询指引.md",
+    "Clippings/3月18日起报名！2026年祖庙街道公办小学招生工作方案出炉.md",
+    "Clippings/2026年张槎街道公办小学招生工作开始啦！.md",
     "Clippings/事关南庄镇公办小学招生！3月18日起报名！.md",
+    "未命名.md",
+    "~$：禅城区新市民积分制服务指南 1.doc",
+    "附件：禅城区新市民积分制服务指南 1.doc",
+    "附件：禅城区新市民积分制服务指南.doc",
+    "Clippings/3月18日起开启报名！2026年石湾公办小学招生方案出炉.md",
     "欢迎.md",
     "Clippings"
   ]
