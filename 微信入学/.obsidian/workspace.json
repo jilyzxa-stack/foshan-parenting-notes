@@ -174,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -183,10 +184,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3b4b9bf53f8ab68a",
+  "active": "15a7ed01c3e41b8c",
   "lastOpenFiles": [
-    "Clippings/2026年佛山市华英学校招生报名资格审核结果查询指引.md",
     "欢迎.md",
+    "Clippings/2026年佛山市华英学校招生报名资格审核结果查询指引.md",
     "Clippings"
   ]
 }
