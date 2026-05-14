@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "9eb6c52d47e08e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文案脚本/南海区外地娃入学全景图：3条路径你走哪条？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "南海区外地娃入学全景图：3条路径你走哪条？"
+            }
+          },
+          {
             "id": "6ad12374aa8237a4",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,10 +251,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "ebfea2b72a13eefe",
+  "active": "9eb6c52d47e08e96",
   "lastOpenFiles": [
-    "视频文案脚本的 GEO 设计要点.md",
     "选题库.md",
+    "文案脚本/南海区外地娃入学全景图：3条路径你走哪条？.md",
+    "文案脚本",
+    "视频文案脚本的 GEO 设计要点.md",
     "各镇街招生方案总结.md",
     "Clippings/关注！容桂街道2026年公办小学一年级入学办法来了！ 1.md",
     "Clippings/关注！容桂街道2026年公办小学一年级入学办法来了！.md",
@@ -264,7 +280,6 @@
     "Clippings/速看！北滘镇2026年公办初中一年级户籍生招生方案.md",
     "Clippings/重磅！北滘镇2026年公办小学一年级户籍生招生方案公布.md",
     "Clippings/速看！均安镇2026年公办初中一年级招生工作方案公布！.md",
-    "Clippings/重磅！均安镇2026年公办小学一年级户籍生招生工作方案.md",
     "~$：禅城区新市民积分制服务指南 1.doc",
     "附件：禅城区新市民积分制服务指南 1.doc",
     "附件：禅城区新市民积分制服务指南.doc",
