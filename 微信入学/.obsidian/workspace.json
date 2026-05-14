@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "各镇街招生方案总结"
             }
+          },
+          {
+            "id": "ebfea2b72a13eefe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "选题库.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "选题库"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,10 +223,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b05b9e89139b66f0",
+  "active": "ebfea2b72a13eefe",
   "lastOpenFiles": [
-    "Clippings/关注！容桂街道2026年公办小学一年级入学办法来了！ 1.md",
     "各镇街招生方案总结.md",
+    "选题库.md",
+    "Clippings/关注！容桂街道2026年公办小学一年级入学办法来了！ 1.md",
     "Clippings/关注！容桂街道2026年公办小学一年级入学办法来了！.md",
     "Clippings/2026年三水区新市民随迁子女积分入学通告.md",
     "Clippings/2026年三水区公办初中秋季学期初一年级招生工作方案.md",
@@ -236,7 +251,6 @@
     "Clippings/速看！均安镇2026年公办初中一年级招生工作方案公布！.md",
     "Clippings/重磅！均安镇2026年公办小学一年级户籍生招生工作方案.md",
     "Clippings/最新发布！2026年伦教街道公办初中一年级招生方案出炉！.md",
-    "Clippings/4月26日开始报名！2026年伦教街道小学一年级政策生招生方案出炉.md",
     "~$：禅城区新市民积分制服务指南 1.doc",
     "附件：禅城区新市民积分制服务指南 1.doc",
     "附件：禅城区新市民积分制服务指南.doc",
