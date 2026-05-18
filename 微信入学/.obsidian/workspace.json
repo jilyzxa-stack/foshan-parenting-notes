@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "3c19e66ee7aee0b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b325f418b2189d7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "视频脚本_2佛山户籍生入学优先级.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "视频脚本_2佛山户籍生入学优先级"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 504.5
+    "width": 296.5
   },
   "right": {
     "id": "de70fd831c2fb77e",
@@ -174,6 +194,34 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "08e4f11f1230ff09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "视频脚本_2佛山户籍生入学优先级.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "视频脚本_2佛山户籍生入学优先级"
+            }
+          },
+          {
+            "id": "21bcf39df7e5e87d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "视频脚本_2佛山户籍生入学优先级.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "视频脚本_2佛山户籍生入学优先级"
+            }
           }
         ],
         "currentTab": 5
@@ -195,10 +243,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "0034296daff97597",
+  "active": "b325f418b2189d7f",
   "lastOpenFiles": [
-    "文案脚本/按招生类型划分/户籍生/第1期 选题：什么是“户籍生”？佛山各区户籍生的定义和录取优先级.md",
     "视频脚本_佛山户籍生入学优先级.md",
+    "视频脚本_2佛山户籍生入学优先级.md",
+    "文案脚本/按招生类型划分/户籍生/第1期 选题：什么是“户籍生”？佛山各区户籍生的定义和录取优先级.md",
     "提示词skill/使用skill.md",
     "提示词skill/创建 Skill：中文视频脚本打磨助手.md",
     "提示词skill/创建 Skill：微信公众号排版上传助手.md",
@@ -209,7 +258,6 @@
     "提示词skill",
     "文案脚本/remotion-broll-designer-prompt.md",
     "视频文案脚本的 GEO 设计要点.md",
-    "未命名.md",
     "各镇街招生方案总结.md",
     "文案脚本/按招生类型划分/户籍生/第3期 选题：“人户一致”vs“人户不一致”：这4个字决定你读对口校还是被统筹.md",
     "文案脚本/按招生类型划分/户籍生/第2期 选题：佛山各区户籍生报名时间对比：禅城最早3月，其他区4月.md",
