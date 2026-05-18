@@ -43,12 +43,12 @@
 
 收到我的回答后，**在创建文件之前**，请先按下表整理出配置变量的实际值，并在回复里展示给我确认：
 
-| 变量名 | 我的回答 / 默认值 |
-|--------|-----------------|
-| `SKILL_FOLDER_NAME` | （问题 1 的回答，默认 `video-script-draft`） |
+| 变量名                          | 我的回答 / 默认值                                                |
+| ---------------------------- | --------------------------------------------------------- |
+| `SKILL_FOLDER_NAME`          | （问题 1 的回答，默认 Dagang）                                      |
 | `DEFAULT_OUTPUT_DESTINATION` | （问题 2 的回答：`same-file` / `desktop` / 用户提供的路径，默认 `desktop`） |
-| `DEFAULT_OUTPUT_MODE` | （问题 3 的回答：`outline` / `full-script`，默认 `outline`） |
-| `ALLOW_WEB_FACT_CHECK` | （问题 4 的回答：`true` / `false`，默认 `true`） |
+| `DEFAULT_OUTPUT_MODE`        | （问题 3 的回答：`outline` / `full-script`，默认 `outline`）         |
+| `ALLOW_WEB_FACT_CHECK`       | （问题 4 的回答：`true` / `false`，默认 `true`）                     |
 
 请先展示配置映射。如果我的回答没有冲突或缺失，就直接继续创建；只有配置明显冲突时再暂停确认。
 
